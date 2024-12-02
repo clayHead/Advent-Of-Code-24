@@ -1,0 +1,1 @@
+Day 2 was a little brute forcey. Instead of trying to programatically determine ways to dampen the input, I just tested each one and found any dampened report that worked. I also didn't standardize anything regarding the input.
