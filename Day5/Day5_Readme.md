@@ -19,7 +19,7 @@ This got me what I was looking for. After that, it was a simple matter of taking
 CoPilot also wrote the outline for this readme!
 
 ## Possible Improvements
-This would not work with implied rules. Example 94, 56, 57 with only two rules 94|56 and 56|57. This would be valid but in this solution it would not be.
+This would not work with implied rules. Example 94, 56, 57, 38 with only two rules 94|56, 56|57, 94|38. This would be valid but in this solution it would not be.
 
 ## Classes
 
